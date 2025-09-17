@@ -1,0 +1,97 @@
+[
+  {
+    "id": "duke",
+    "name": "Duke University",
+    "type": "Private",
+    "governingBody": "NCAA",
+    "division": "D1",
+    "location": "Durham, NC",
+    "estimatedCOA": 83740,
+    "avgClassSize": 20,
+    "records": [
+      {
+        "season": "2023",
+        "wins": 12,
+        "losses": 5,
+        "draws": 3
+      },
+      {
+        "season": "2024",
+        "wins": 11,
+        "losses": 6,
+        "draws": 2
+      }
+    ]
+  },
+  {
+    "id": "ucsd",
+    "name": "University of California, San Diego",
+    "type": "Public",
+    "governingBody": "NCAA",
+    "division": "D1",
+    "location": "La Jolla, CA",
+    "estimatedCOA": 37100,
+    "avgClassSize": 30,
+    "records": [
+      {
+        "season": "2023",
+        "wins": 9,
+        "losses": 7,
+        "draws": 4
+      },
+      {
+        "season": "2024",
+        "wins": 10,
+        "losses": 8,
+        "draws": 2
+      }
+    ]
+  },
+  {
+    "id": "georgetown",
+    "name": "Georgetown University",
+    "type": "Private",
+    "governingBody": "NCAA",
+    "division": "D1",
+    "location": "Washington, DC",
+    "estimatedCOA": 84500,
+    "avgClassSize": 22,
+    "records": [
+      {
+        "season": "2023",
+        "wins": 13,
+        "losses": 4,
+        "draws": 3
+      },
+      {
+        "season": "2024",
+        "wins": 12,
+        "losses": 5,
+        "draws": 2
+      }
+    ]
+  },
+  {
+    "id": "okwu",
+    "name": "Oklahoma Wesleyan University",
+    "type": "Private",
+    "governingBody": "NAIA",
+    "location": "Bartlesville, OK",
+    "estimatedCOA": 32000,
+    "avgClassSize": 18,
+    "records": [
+      {
+        "season": "2023",
+        "wins": 16,
+        "losses": 3,
+        "draws": 1
+      },
+      {
+        "season": "2024",
+        "wins": 15,
+        "losses": 4,
+        "draws": 2
+      }
+    ]
+  }
+]
