@@ -1,0 +1,73 @@
+[
+  {
+    "id": "duke",
+    "name": "Duke University",
+    "type": "Private",
+    "governingBody": "NCAA",
+    "division": "D1",
+    "location": "Durham, NC",
+    "estimatedCOA": 0,
+    "avgClassSize": 0,
+    "records": [
+      {
+        "season": "2024",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0
+      },
+      {
+        "season": "2023",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0
+      }
+    ]
+  },
+  {
+    "id": "georgetown",
+    "name": "Georgetown University",
+    "type": "Private",
+    "governingBody": "NCAA",
+    "division": "D1",
+    "location": "Washington, DC",
+    "estimatedCOA": 0,
+    "avgClassSize": 0,
+    "records": [
+      {
+        "season": "2024",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0
+      },
+      {
+        "season": "2023",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0
+      }
+    ]
+  },
+  {
+    "id": "okwu",
+    "name": "Oklahoma Wesleyan University",
+    "type": "Private",
+    "governingBody": "NAIA",
+    "location": "Bartlesville, OK",
+    "estimatedCOA": 0,
+    "avgClassSize": 0,
+    "records": [
+      {
+        "season": "2024",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0
+      },
+      {
+        "season": "2023",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0
+      }
+    ]
+  }
+]

@@ -15,8 +15,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <div className="text-xl font-bold">PCDA Recruit</div>
             <nav className="text-sm">
               <a className="mr-4" href="/">Home</a>
+              <a className="mr-4" href="/presentation">Presentation</a>
               <a className="mr-4" href="/intake">Intake</a>
               <a className="mr-4" href="/summary">Summary</a>
+              <a className="mr-4" href="/data/colleges">Colleges</a>
             </nav>
           </div>
         </header>

@@ -7,14 +7,8 @@
   --fg: 15 23 42;
 }
 
-html, body {
-  height: 100%;
-}
-
-body {
-  color: rgb(var(--fg));
-  background: rgb(var(--bg));
-}
+html, body { height: 100%; }
+body { color: rgb(var(--fg)); background: rgb(var(--bg)); }
 .container-narrow { @apply container max-w-4xl; }
 .card { @apply rounded-2xl shadow p-6 bg-white; }
 .label { @apply text-sm font-medium text-slate-600; }

@@ -21,10 +21,6 @@ export default function Page() {
           <h2 className="font-semibold mb-1">View Summary</h2>
           <p className="text-slate-600 text-sm">Personalized pathway, timeline, and finances.</p>
         </a>
-        <a className="card" href="/data/colleges">
-          <h2 className="font-semibold mb-1">Manage Colleges</h2>
-          <p className="text-slate-600 text-sm">Import/update NCAA/NAIA men’s soccer programs.</p>
-        </a>
       </div>
     </div>
   );
