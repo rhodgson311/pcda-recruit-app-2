@@ -9,6 +9,10 @@ export default function Page() {
         </p>
       </div>
       <div className="grid-3">
+        <a className="card" href="/presentation">
+          <h2 className="font-semibold mb-1">Presentation</h2>
+          <p className="text-slate-600 text-sm">Overview flow for video calls.</p>
+        </a>
         <a className="card" href="/intake">
           <h2 className="font-semibold mb-1">Start Intake</h2>
           <p className="text-slate-600 text-sm">Guided questions with conditional logic.</p>
